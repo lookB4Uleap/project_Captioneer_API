@@ -1,10 +1,9 @@
 import os
 import shutil
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 # import tensorflow as tf
 from tensorflow import keras
-import cv2
 from keras.models import load_model
 import numpy as np
 # from tensorflow.keras.applications import ResNet50
