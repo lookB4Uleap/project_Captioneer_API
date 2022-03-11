@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Captioneer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_574B6A68B95B4359993804AC465EEEF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76747E297052491285CEDF80EB2D257A }}
